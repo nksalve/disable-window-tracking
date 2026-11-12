@@ -65,6 +65,3 @@ Double-click RESTORE_DEFAULTS.bat → Restart PC
 
 ### Hosts File Blocks
 10 Microsoft telemetry domains blocked via `0.0.0.0` entries.
-
-## ⚠️ Not Touched
-- **Trend Micro OfficeScan** — Enterprise-managed antivirus, contact IT admin.
